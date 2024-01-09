@@ -37,7 +37,7 @@ body {
   margin: 0 auto;
 }
 
-/* New year secion style starts here */
+
 .new-year-section {
   margin: 0 auto;
   justify-content: center;
@@ -70,9 +70,7 @@ body {
   margin: 0 auto;
   padding-top: 50px;
 }
-/* New year secion style ends here */
 
-/* party section starts here */
 
 .party-container {
   margin-top: 120px;
@@ -117,9 +115,7 @@ body {
   border: 0px;
   margin: 48px 0px 142px 158px;
 }
-/* party section ends here */
 
-/* Location section starts here */
 .location {
   padding: 100px 385px 0px 385px;
   margin-top: 120px;
@@ -151,9 +147,7 @@ body {
   border-radius: 8px;
   background-color: #f00;
 }
-/* Location section ends here */
 
-/*Coming soon style starts here */
 .coming-soon {
   display: flex;
   margin-top: 120px;
@@ -205,9 +199,7 @@ body {
   width: 140px;
   height: 140px;
 }
-/*Coming soon style ends here */
 
-/*Holiday special offer style  starts here  */
 .holiday {
   margin-top: 120px;
   text-align: center;
@@ -266,9 +258,7 @@ body {
 }
 
 
-/*Holiday special offer style  ends here  */
 
-/* gorup image container style starts here */
 .group-image-container {
   margin-top: 120px;
 }
@@ -302,9 +292,7 @@ body {
   transition: 300ms ease-in-out;
   box-shadow: 5px 5px 5px 5px rgb(97, 68, 68);
 }
-/* gorup image container style ends here */
 
-/* Subscribe section style starts here  */
 .subscribe-section {
   margin-top: 120px;
   border-radius: 16px;
@@ -371,9 +359,7 @@ body {
   margin-bottom: 60px;
 }
 
-/* Subscribe section style ends here  */
 
-/* footer section style starts here */
 footer {
   background-color: #070211;
 }
@@ -427,4 +413,4 @@ hr {
   width: 20px;
   margin-right: 10px;
 }
-/* footer section style ends here */
+
